@@ -1,0 +1,30 @@
+# eclipse project settings, needed to directly clone Eclipse projects
+#.settings/
+#.classpath
+#.project
+*.launch
+local.properties
+
+# eclipse settings
+.metadata
+.recommenders
+
+# Binaries
+bin/
+target/
+*.class
+*.jar
+*.tar
+*.war
+*.ear
+
+# Temporary files
+tmp/
+*.tmp
+*.bak
+*.swp
+*.log
+
+# OS
+.DS_Store
+
